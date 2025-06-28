@@ -54,15 +54,13 @@ The dataset contains synthetic agricultural data sourced from Kaggle, including:
 
 ## 🗂 Project Structure
 
----
 Crop_Yield_Prediction/
 ├── data/
 │   ├── crop_yield.csv
 ├── notebook/
 │   ├── Crop_Yield_Prediction.ipynb
 ├── requirements.txt      
-└── README.md
----     
+└── README.md   
 
 ## 🚀 How to Run
 
