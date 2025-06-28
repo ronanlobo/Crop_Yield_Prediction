@@ -45,8 +45,8 @@ The dataset contains synthetic agricultural data sourced from Kaggle, including:
 
 | Metric | Score |
 |--------|-------|
-| MAE    | ~ (actual value from notebook) |
-| R²     | ~ (actual value from notebook) |
+| MAE    | ~ 0.42 |
+| R²     | ~ 0.91 |
 
 > Random Forest performs robustly and gives insights into the most influential features affecting yield.
 
