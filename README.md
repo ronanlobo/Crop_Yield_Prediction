@@ -98,6 +98,3 @@ jupyter notebook notebook/Crop_Yield_Prediction.ipynb
 ## 📄 License
 
 MIT License
-## 📌 Acknowledgements
- Kaggle Dataset Source
- Scikit-Learn Documentation
