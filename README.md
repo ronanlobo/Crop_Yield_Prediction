@@ -54,29 +54,50 @@ The dataset contains synthetic agricultural data sourced from Kaggle, including:
 
 ## 🗂 Project Structure
 
+```
 Crop_Yield_Prediction/
 ├── data/
 │   ├── crop_yield.csv
 ├── notebook/
 │   ├── Crop_Yield_Prediction.ipynb
 ├── requirements.txt      
-└── README.md   
+└── README.md
+```
+
+---
 
 ## 🚀 How to Run
 
-1. Clone the repo  
-   ```bash
-   git clone https://github.com/your-username/crop-yield-prediction.git
-   cd crop-yield-prediction
+### 1. Clone the repository
 
-2. Install dependencies
+```bash
+git clone https://github.com/your-username/crop-yield-prediction.git
+cd crop-yield-prediction
+```
 
-    pip install -r requirements.txt
+### 2. Install dependencies
 
-3. Open the notebook
+```bash
+pip install -r requirements.txt
+```
 
-    jupyter notebook notebook/Crop_Yield_Prediction_Refactored.ipynb
+### 3. Open the Jupyter Notebook
 
+```bash
+jupyter notebook notebook/Crop_Yield_Prediction.ipynb
+```
+---
+
+## 📌 Acknowledgements
+
+- [Kaggle Dataset Source](https://www.kaggle.com/)
+- [Scikit-Learn Documentation](https://scikit-learn.org/stable/)
+
+---
+
+## 📄 License
+
+MIT License
 ## 📌 Acknowledgements
  Kaggle Dataset Source
  Scikit-Learn Documentation
